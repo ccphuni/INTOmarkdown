@@ -12,12 +12,16 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 Linux uppsettningin gekk best med USB lykli, vorum i vandamali med utgafur af linux sem virkadi samt eftir nokkrar tilraunir.
 
+![alt tag](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/q72/s720x720/1377177_10151652592102373_132081513_n.jpg)
 
+![alt tag](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/q86/s720x720/1377177_10151652592107373_1030456138_n.jpg)
 
+![alt tag](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn2/q77/1377177_10151652592097373_1690901923_n.jpg)
 
 ## 2. Uppsetning á vim && git
 
 Lýsið hvernig gekk að setja upp þessi tól.
+
 Tad gekk agaetlega.
 
 ## 3. Unnið með Git (1. hluti)
